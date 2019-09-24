@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorialfirebase</string>
+    <string name="app2_name">Notes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_edit1">title</string>
+    <string name="notes_edit2">Notes</string>
+    <string name="updata">updata</string>
+    <string name="delete">delete</string>
+    <string name="title_edit3">title</string>
+    <string name="notes_edit4">Notes</string>
+    <string name="add">add</string>
+</resources>
